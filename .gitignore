@@ -1,5 +1,5 @@
 .env
 ./venv/
-./new-venv
+./new-venv/
 .idea
 .git
