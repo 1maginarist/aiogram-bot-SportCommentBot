@@ -1,5 +1,6 @@
 .env
 ./venv/
-./new-venv/
 .idea
 .git
+.gitignore
+new-venv
